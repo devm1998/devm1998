@@ -77,6 +77,6 @@
 
 <div align="center">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=zues&font=Redressed)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
 </div>
