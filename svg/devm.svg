@@ -61,7 +61,7 @@
           animation:  typing 5s forwards;
           margin-left: 70px;
           white-space: nowrap;
-				background: -webkit-linear-gradient(pink, red);
+				background: -webkit-linear-gradient(#097923, #0097ff);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
         }
