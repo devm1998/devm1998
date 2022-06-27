@@ -65,7 +65,7 @@
   <a href="mailto:khaminhbui@gmail.com" target="top">
     <img src="https://img.icons8.com/doodle/100/000000/gmail.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/minh-b%C3%B9i-d%C6%B0%C6%A1ng-kh%E1%BA%A3-686380221" target="blank">
+  <a href="https://www.linkedin.com/in/minhbdk6398" target="blank">
     <img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png"/>
   </a>
 </div>
