@@ -69,14 +69,3 @@
     <img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png"/>
   </a>
 </div>
-
-<br>
-
-<h2 align="center">📑 Quote Everyday 📑</h2>
-<br>
-
-<div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
-
-</div>
