@@ -52,20 +52,20 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">🌎 Where to find me 🌎</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/devm1998" target="blank">
-    <img src="https://img.icons8.com/doodle/100/000000/facebook-new.png"/>
+    <img width="96" height="96" src="https://img.icons8.com/fluency/96/facebook-new.png" alt="facebook-new"/>
   </a>
   <a href="https://www.instagram.com/m.i_nh" target="blank">
-    <img src="https://img.icons8.com/doodle/100/000000/instagram--v1.png"/>
+    <img width="96" height="96" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="instagram-new"/>
   </a>
   <a href="mailto:khaminhbui@gmail.com" target="top">
-    <img src="https://img.icons8.com/doodle/100/000000/gmail.png"/>
+    <img width="96" height="96" src="https://img.icons8.com/fluency/96/gmail-new.png" alt="gmail-new"/>
   </a>
   <a href="https://www.linkedin.com/in/minhbdk6398" target="blank">
-    <img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png"/>
+    <img width="96" height="96" src="https://img.icons8.com/fluency/96/linkedin.png" alt="linkedin"/>
   </a>
 </div>
